@@ -1,12 +1,27 @@
-## Welcome to GitHub Pages
+## Azur Lane Skins List
 
-You can use the [editor on GitHub](https://github.com/fruitille/whalinglane/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![chicheng_4](https://user-images.githubusercontent.com/36793203/171456414-b1e764bb-af30-4972-80e9-5578ed9c6942.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
