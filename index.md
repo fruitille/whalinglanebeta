@@ -1,9 +1,7 @@
 ## Azur Lane Skins List
 
 <div class=akagi style="width: 100%; padding: 5px 2px; margin: 1px auto; border: 2px solid red; border-radius: 5px;">
-  <b> "Akagi"
-    <b> style="color: red;" </b>
-  </b>
+  <b> Akagi </b>
 </div>
      
 - [x] <img src="https://user-images.githubusercontent.com/36793203/171456561-9f489ef2-1e80-4341-8828-868696259d60.png" width="158" height="35" />
