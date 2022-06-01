@@ -2,11 +2,11 @@
 
 <div class=akagi style="width: 100%; padding: 5px 2px; margin: 1px auto; border: 2px solid red; border-radius: 5px;">
   <b> Akagi </b> </p>
-  - [x] <img src="https://user-images.githubusercontent.com/36793203/171456561-9f489ef2-1e80-4341-8828-868696259d60.png" width="158" height="35" /></p>
-  - [x] <img src="https://user-images.githubusercontent.com/36793203/171456594-5fa97c1a-9ad9-482e-840e-80f28a2f2a94.png" width="158" height="35" /></p>
-  - [x] <img src="https://user-images.githubusercontent.com/36793203/171456611-2028bc9e-7270-4e69-bcf0-d853704773c3.png" width="158" height="35" /></p>
-  - [x] <img src="https://user-images.githubusercontent.com/36793203/171456632-ca496df9-85d7-4f91-b7a3-abc18a0e35e3.png" width="158" height="35" /></p>
-  - [x] <img src="https://user-images.githubusercontent.com/36793203/171456646-84a0c1a7-086b-4920-bb8e-6862cb9bccec.png" width="158" height="35" /></p>
+  <img src="https://user-images.githubusercontent.com/36793203/171456561-9f489ef2-1e80-4341-8828-868696259d60.png" width="158" height="35"/>
+  <img src="https://user-images.githubusercontent.com/36793203/171456594-5fa97c1a-9ad9-482e-840e-80f28a2f2a94.png" width="158" height="35"/>
+  <img src="https://user-images.githubusercontent.com/36793203/171456611-2028bc9e-7270-4e69-bcf0-d853704773c3.png" width="158" height="35"/>
+  <img src="https://user-images.githubusercontent.com/36793203/171456632-ca496df9-85d7-4f91-b7a3-abc18a0e35e3.png" width="158" height="35"/>
+  <img src="https://user-images.githubusercontent.com/36793203/171456646-84a0c1a7-086b-4920-bb8e-6862cb9bccec.png" width="158" height="35"/>
 </div>
      
 
